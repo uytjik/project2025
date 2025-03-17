@@ -55,4 +55,4 @@ jobs:
           app-name: 'Sagnikproject2025'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8CC16098229457BAEC8614E7C10F6BF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_364C04BFDF46470B8867BEC9522351AA }}
